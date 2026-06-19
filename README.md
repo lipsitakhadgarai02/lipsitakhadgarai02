@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>DSA in Java, frontend web development (HTML, CSS, Tailwind, React), and building real-world projects to sharpen my problem-solving and design-to-code skills.<br><br>👯 I'm looking to collaborate on<br>Web development projects, beginner-friendly open-source repos, and creative tech/AI-assisted builds.<br><br>🤝 I'm looking for help with<br>Advanced DSA patterns, React best practices, and real-world deployment workflows.<br><br>🌱 I'm currently learning<br>DSA (Java), Web Development, Python, and the fundamentals of Data Analytics & Machine Learning.<br><br>💬 Ask me about<br>DSA in Java, frontend basics, building websites with AI tools, UI/UX with Figma & Canva, and Firebase/Supabase backends.<br><br>⚡ Fun fact<br>I'm an artist turned engineer — creativity + logic is my superpower 🎨⚙️
+🔭 I'm currently working on<br>DSA in Java, frontend web development (HTML, CSS, Tailwind, React), and building real-world projects to sharpen my problem-solving and design-to-code skills.<br><br> I'm looking to collaborate on<br>Web development projects, beginner-friendly open-source repos, and creative tech/AI-assisted builds.<br><br>🤝 I'm looking for help with<br>Advanced DSA patterns, React best practices, and real-world deployment workflows.<br><br>🌱 I'm currently learning<br>DSA (Java), Web Development, Python, and the fundamentals of Data Analytics & Machine Learning.<br><br>💬 Ask me about<br>DSA in Java, frontend basics, building websites with AI tools, UI/UX with Figma & Canva, and Firebase/Supabase backends.<br><br>⚡ Fun fact<br>I'm an artist turned engineer — creativity + logic is my superpower 🎨⚙️
 
 ## 🚧 Currently Building
 - 🧠 **DSA-WITH-JAVA** — Daily DSA practice in Java with annotated solutions and dry-run notes (binary search variants, and more as I go)
@@ -25,8 +25,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lipsitacodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote I Live By
+> "Design is not just what it looks like — design is how it works."
+> — Steve Jobs
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lipsitacodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
